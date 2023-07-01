@@ -3,6 +3,8 @@ __pycache__/
 
 /dissect/results/
 /dissect/resources/
+/dissect/mydissect/*.png
+/dissect/mydissect/*.jpg
 
 /segmentation/dataset_generator/dataset/
 /segmentation/dataset_generator/Sprites/
