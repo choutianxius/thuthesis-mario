@@ -1,6 +1,8 @@
 # Network Dissection of a DQN Agent Playing Super Mario Bros
 
-![mario gif](https://i.gifer.com/33HU.gif)
+![mario gif](mario.gif)
+
+(gif from [gifer.com](https://gifer.com/en/33HU))
 
 This repository contains three modules:
 
