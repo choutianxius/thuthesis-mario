@@ -1,4 +1,10 @@
 __pycache__/
 .ipynb_checkpoints/
-results/
-resources/
+
+/dissect/results/
+/dissect/resources/
+
+/segmentation/dataset_generator/dataset/
+/segmentation/dataset_generator/Sprites/
+/segmentation/training/models/
+/segmentation/training/logger/
